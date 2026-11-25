@@ -1,0 +1,11 @@
+SAMPLE HEALTH EDUCATION DOCUMENT — for software demonstration only, not clinical guidance.
+
+Hydration: Water supports normal body functions. Individual fluid needs vary with activity, environment, diet, and health status. People with medical conditions affecting fluid balance should follow advice from their healthcare professional.
+
+Sleep: Consistent sleep routines can support general wellbeing. Sleep needs vary by age and individual. Persistent sleep difficulties should be discussed with a qualified healthcare professional.
+
+Physical activity: Regular movement can support general health. Appropriate activity depends on individual abilities and health status. Anyone experiencing concerning symptoms during exercise should stop and seek medical advice.
+
+Medication safety: Use medicines only as directed by a qualified prescriber or official product instructions. Do not start, stop, or change a prescribed medicine based only on an AI system.
+
+Emergency: Severe, sudden, or worsening symptoms require prompt assessment by qualified medical services. An AI assistant cannot assess emergencies or diagnose disease.
